@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ultralesson.shoppingcart.test.ShoppingCartTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-13T07:47:25" hostname="KRISH" time="0.031">
+  <properties/>
+  <testcase name="shoppingCartTest" classname="com.ultralesson.shoppingcart.test.ShoppingCartTest" time="0.031"/>
+  <system-out><![CDATA[250
+250
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
